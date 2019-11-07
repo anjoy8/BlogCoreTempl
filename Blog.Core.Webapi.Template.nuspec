@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Blog.Core.Webapi.Template</id>
+    <version>1.1.4</version>
+    <description>
+      Creates a blog core webapi app.
+    </description>
+    <authors>Lao zhang</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+	<licenseUrl>https://github.com/anjoy8/Blog.Core</licenseUrl>
+	<projectUrl>https://github.com/anjoy8/Blog.Core</projectUrl>
+	<iconUrl>https://en.gravatar.com/userimage/158262231/334dbd3b1ecd549133a2a7122c18aa7d.png</iconUrl>
+	<copyright>Copyright 2019 </copyright>
+	<tags>asp.net core template</tags>
+  </metadata>
+</package>
